@@ -84,6 +84,6 @@ In this churn analysis project, the Random Forest Classifier was used as the cor
 
 1- Download and install Power BI Desktop.
 
-2- Open the Power BI project file: CarsSalesDashboard.pbix.
+2- Open the Power BI project file: Churn_Analysis.pbix.
 
 
