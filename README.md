@@ -1,5 +1,5 @@
 # Customer Churn Analysis with Power BI and Machine Learning
-**Project Overview**
+**Project Overview:**
 This Power BI project focuses on analyzing customer churn to help businesses understand why customers leave and identify opportunities for retention. The project combines data visualization with machine learning to provide actionable insights.
 
 **Key Objectives:**
@@ -50,6 +50,8 @@ Random Forest Classifier Implementation:
 
 In this churn analysis project, the Random Forest Classifier was used as the core predictive model. Random Forest is an ensemble learning technique that builds multiple decision trees during training and merges their results to produce more accurate and stable predictions. By training the model on 80% of the preprocessed dataset and testing on the remaining 20%, we ensured a reliable evaluation using a confusion matrix and classification report. The algorithm was particularly useful for handling both numerical and categorical features, which had been label encoded beforehand. One of its major advantages is the ability to determine feature importance, helping us identify the key factors that influence customer churn. This insight guided targeted retention strategies. Finally, the trained model was applied to new customer data to predict those at high risk of churning, enabling proactive intervention.
 
+![Capture1](https://github.com/user-attachments/assets/e455450f-a8e3-499d-97b7-bdd7a8ad5764)
+
 **4. Dashboard Features**
 **Churn Analysis Dashboard:**
 
@@ -76,7 +78,7 @@ In this churn analysis project, the Random Forest Classifier was used as the cor
 - Jupyter Notebooks: For model development and testing
 
 
-![Capture1](https://github.com/user-attachments/assets/e455450f-a8e3-499d-97b7-bdd7a8ad5764)
+
 
 
 
